@@ -77,6 +77,11 @@ smart_parking/
 2. Amato et al., "Deep Learning for Decentralized Parking Lot Occupancy Detection" (2017)
 3. Ultralytics, "YOLOv8: Real-Time Object Detection and Segmentation" (2023)
 
+# Deployment
+https://huggingface.co/spaces/Deekshareddy10/XML_blend
+https://huggingface.co/spaces/Deekshareddy10/smart-parking-detection
+
+
 ## License
 
 Copyright © 2025 Deeksha Reddy Patlolla. All Rights Reserved.
