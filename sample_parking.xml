@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parking>
+    <space id="1" occupied="0">
+        <contour>
+            <point x="100" y="150"/>
+            <point x="200" y="150"/>
+            <point x="200" y="280"/>
+            <point x="100" y="280"/>
+        </contour>
+    </space>
+    <space id="2" occupied="1">
+        <contour>
+            <point x="210" y="150"/>
+            <point x="310" y="150"/>
+            <point x="310" y="280"/>
+            <point x="210" y="280"/>
+        </contour>
+    </space>
+    <space id="3" occupied="0">
+        <contour>
+            <point x="320" y="150"/>
+            <point x="420" y="150"/>
+            <point x="420" y="280"/>
+            <point x="320" y="280"/>
+        </contour>
+    </space>
+    <space id="4" occupied="1">
+        <contour>
+            <point x="430" y="150"/>
+            <point x="530" y="150"/>
+            <point x="530" y="280"/>
+            <point x="430" y="280"/>
+        </contour>
+    </space>
+    <space id="5" occupied="0">
+        <contour>
+            <point x="540" y="150"/>
+            <point x="640" y="150"/>
+            <point x="640" y="280"/>
+            <point x="540" y="280"/>
+        </contour>
+    </space>
+    <space id="6" occupied="0">
+        <contour>
+            <point x="650" y="150"/>
+            <point x="750" y="150"/>
+            <point x="750" y="280"/>
+            <point x="650" y="280"/>
+        </contour>
+    </space>
+    <space id="7" occupied="1">
+        <contour>
+            <point x="100" y="300"/>
+            <point x="200" y="300"/>
+            <point x="200" y="430"/>
+            <point x="100" y="430"/>
+        </contour>
+    </space>
+    <space id="8" occupied="0">
+        <contour>
+            <point x="210" y="300"/>
+            <point x="310" y="300"/>
+            <point x="310" y="430"/>
+            <point x="210" y="430"/>
+        </contour>
+    </space>
+    <space id="9" occupied="1">
+        <contour>
+            <point x="320" y="300"/>
+            <point x="420" y="300"/>
+            <point x="420" y="430"/>
+            <point x="320" y="430"/>
+        </contour>
+    </space>
+    <space id="10" occupied="0">
+        <contour>
+            <point x="430" y="300"/>
+            <point x="530" y="300"/>
+            <point x="530" y="430"/>
+            <point x="430" y="430"/>
+        </contour>
+    </space>
+    <space id="11" occupied="0">
+        <contour>
+            <point x="540" y="300"/>
+            <point x="640" y="300"/>
+            <point x="640" y="430"/>
+            <point x="540" y="430"/>
+        </contour>
+    </space>
+    <space id="12" occupied="1">
+        <contour>
+            <point x="650" y="300"/>
+            <point x="750" y="300"/>
+            <point x="750" y="430"/>
+            <point x="650" y="430"/>
+        </contour>
+    </space>
+</parking>
