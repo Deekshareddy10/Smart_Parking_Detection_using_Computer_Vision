@@ -79,6 +79,8 @@ smart_parking/
 
 # Deployment
 https://huggingface.co/spaces/Deekshareddy10/XML_blend
+
+
 https://huggingface.co/spaces/Deekshareddy10/smart-parking-detection
 
 
